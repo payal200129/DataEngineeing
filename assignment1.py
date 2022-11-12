@@ -79,6 +79,7 @@ the right, belong to the same code.
 #Solution 13
 
 The basic way to do output is the print statement.
+Ex- print('Hello World')
 
 #Solution 14
 
