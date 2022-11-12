@@ -134,7 +134,7 @@ that only one condition will execute:
 age=int(input("Enter person's age: "))
 if age>=18:
     print('I can Vote')
-elif age<0:
+elif age<=0:
     print('Invalid age')
 else:
     print("I can't Vote")
